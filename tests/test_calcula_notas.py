@@ -66,7 +66,7 @@ testdata_calcula_notas_curso = [
                 "final_exam": 9
             }
         ],
-        [("Luisa López", 7.8375), ("Pedro García", 5.5), ("Fermín Gutiérrez", 0)]
+        [("Luisa López", 7.8375), ("Pedro García", 4.945), ("Fermín Gutiérrez", 0)]
     ),
     ([], [])
 ]
